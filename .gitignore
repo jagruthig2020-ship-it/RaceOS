@@ -1,0 +1,6 @@
+cache/
+vision/
+runs/
+data/
+*.pt
+__pycache__/
